@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Book title,Genre,Book's volume sale,Etc.
 One Piece,Adventure / Fantasy,"8,113,317",
 My Hero Academia, Shonen / Supernatural,"6,718,185",
@@ -11,7 +11,7 @@ Yakusoku no Neverland, Mystery / Honor,"4,246,955",
 Tensei shitara Slime Datta Ken, Fantasy / Shonen,"3,460,066",
 Tokyo Ghoul,Drama / Supernatural,"3,267,843",
 =======
-Book title,Genre,Book's volume sale,Etc.
+
 One Piece,Adventure / Fantasy,,
 My Hero Academia, Shonen / Supernatural,,
 Shingeki no Kyojin, Supernatural / Drama / Action,,
@@ -22,4 +22,3 @@ The Seven Deadly Sins, Action / Fantasy,,
 Yakusoku no Neverland, Mystery / Honor,,
 Tensei shitara Slime Datta Ken, Fantasy / Shonen,,
 Tokyo Ghoul,Drama / Supernatural,,
->>>>>>> master
