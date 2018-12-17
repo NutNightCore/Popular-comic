@@ -1,13 +1,11 @@
-
 Book title,Genre,Book's volume sale,Etc.
-One Piece,Adventure / Fantasy,"8,113,317",
-My Hero Academia, Shonen / Supernatural,"6,718,185",
-Shingeki no Kyojin, Supernatural / Drama / Action,"5,235,963",
-Slam Dunk,Sports / shonen,"5,214,085",
-Haikyu!!, Sports / Shcool,"5,030,624",
-Kingdom, Seinen / History,"4,970,171",
-The Seven Deadly Sins, Action / Fantasy,"4,867,680",
-Yakusoku no Neverland, Mystery / Honor,"4,246,955",
-Tensei shitara Slime Datta Ken, Fantasy / Shonen,"3,460,066",
-
-Tokyo Ghoul,Drama / Supernatural,"3,267,843",
+One Piece,Adventure-Fantasy,"8,113,317",
+My Hero Academia, Shonen-Supernatural,"6,718,185",
+Shingeki no Kyojin,Dark Fantasy-Adventure,"5,235,963",
+Slam Dunk,Sports-Shonen,"5,214,085",
+Haikyu!!, Sports-Shcool,"5,030,624",
+Kingdom, Seinen-History,"4,970,171",
+The Seven Deadly Sins,Adventure-Fantasy,"4,867,680",
+Yakusoku no Neverland,Mystery-Honor,"4,246,955",
+Tensei shitara Slime Datta Ken,Fantasy,"3,460,066",
+Tokyo Ghoul,Drama-Supernatural,"3,267,843",
