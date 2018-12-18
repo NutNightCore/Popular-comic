@@ -1,4 +1,5 @@
 # Popular-comic
+![giphy.gif](https://media.giphy.com/media/PMICTAy1uwxGg/giphy.gif)
 ## เกี่ยวกับ Project
 
 ### พวกเราทำอะไร
