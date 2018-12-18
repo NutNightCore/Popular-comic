@@ -1,5 +1,4 @@
 # Popular-comic
-![](/images/comic.jpg)
 ## เกี่ยวกับ Project
 
 ### พวกเราทำอะไร
